@@ -301,6 +301,105 @@
      "name": "#%% md\n"
     }
    }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Showing Relationships between Numerical Values\n",
+    "Discover the relationship between two numeric fields. Visualize that connection as a scatterplot\n",
+    "and analyze the correlation between the two measures\n",
+    "## Build a scatter plot - exercise\n",
+    "Create and customize a scatter plot\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Mapping Data Geographically\n",
+    "if you have geographic data, map it! Use Tableau's automatic geographic role detection to plot data\n",
+    "across cities, states, and nations. Create a symbol map to plot data across regions.\n",
+    "\n",
+    "## Mapping Your Data\n",
+    "Work with geographic data and geocoding\n",
+    "\n",
+    "## Creating a Symbol Map\n",
+    "Show distributed geographic data on a map\n",
+    "## Build a Symbol Map - exercise\n",
+    "use a symbol map to show market data\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Crosstabs: Totals and Aggregation\n",
+    "\n",
+    "## Creating and Editing Crosstabs\n",
+    "\n",
+    "## Working with Totals and Aggregation\n",
+    "Apply totals and subtotals to crosstabs\n",
+    "\n",
+    "## Show Sales Totals in a Crosstab - add totals and subtotals - exercise\n",
+    "## Create a Weighted Average\n",
+    "add a weighted average to a crosstab\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Crosstabs: Highlight Tables\n",
+    "Put a spotlight on outliers. Create a highlight table using a crosstab and color encoding\n",
+    "to make outliers visually stand out\n",
+    "## Build a Highlight Table\n",
+    "Use a highlight table to show trends\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Crosstabs: Heat Maps\n",
+    "Seeing your measures visually through size and color can help give your data a focal point.\n",
+    "Show these numeric values across multiple related dimensions to derive additional insight. In this\n",
+    "module, you will learn how heat maps compare these measures to break down your data\n",
+    "and show outliers within your dimension comparisons\n",
+    "## Creating Heat Maps\n",
+    "Use size and color to compare multiple measures and dimensions\n",
+    "## Build a Heat Map\n",
+    "Analyze category sales using a heat map\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
   }
  ],
  "metadata": {
