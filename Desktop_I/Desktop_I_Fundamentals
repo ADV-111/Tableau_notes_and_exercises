@@ -15,7 +15,7 @@
     "* Sort and filter data\n",
     "* Use the Desktop workspace to create visualizations\n",
     "* Build essential chart types\n",
-    "* Create basic calculations, including arithmetic calculations, customr aggregations and ratios; and use quick table calculations\n",
+    "* Create basic calculations, including arithmetic calculations, customer aggregations and ratios; and use quick table calculations\n",
     "* Build interactive dashboards and stories to reveal data insights\n",
     "\n"
    ]
@@ -72,8 +72,228 @@
    "cell_type": "markdown",
    "source": [
     "# Sorting Your Data\n",
-    "Data doesn't always sort ifself inot neat rows. This lesson will focus on how to organize your data to do just that. Learn how to sort data automatically or manually, as well as how to arrange your data by sorting on a field that is not in the view.\n",
+    "Data doesn't always sort itself into neat rows. This lesson will focus on how to organize your data to do just that.\n",
+    "Learn how to sort data automatically or manually, as well as how to arrange your data by sorting on a field that is not in the view.\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "## Concept: Sorting Your Data to Find Answers\n",
+    "At the end of this lesson, you will be able to:\n",
+    "* define and contrast computed sort and manual sort.\n",
+    "* give examples of when to use computed sort\n",
+    "* give examples of when to use manual sort\n",
+    "\n",
+    "\n",
     "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "## Using Computed and Manual Sorts\n",
+    "At the end of this lesson you will be able to:\n",
+    "* describe how to perfomr a computed sort using the axis, the toolbar, and by sorting on the field\n",
+    "* Describe how to perform a manual sort by dragging and dropping headers/ labels\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "## Sort by Fields in a View\n",
+    "activity with downloaded tableau worksheet\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "## Sort by Fields not in a view"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Creating Groups in Your Data\n",
+    "groups can be created in three ways:\n",
+    "* from the dimension shelf\n",
+    "* by selecting the labels in the view\n",
+    "* by selecting marks in the view to create ad hoc analysis\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "## Create a Group - exercise\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "## Create Visual Groups - exercise\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Creating Hierarchies in Your Data\n",
+    "Many dimensions have a relationship to each other. Organizing your dimensions in a hierarchy can help you\n",
+    "analyze your data. Learn how to create and edit hierarchies to organize dimensions into multi-level categories.\n",
+    "Learn how to use the hierarchy to access the level of detail you need\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Working with Date Fields: Discrete and Continuous Time\n",
+    "Take control of time. Learn about the difference between date parts and date values, and how to use\n",
+    "dates as discrete and continuous fields. Use date fields to show data across time or aggregated into\n",
+    "categories, at varied levels of detail\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Working with Date Fields: Discrete and Continuous Time\n",
+    "\n",
+    "## Working with Dates\n",
+    "* identify and describe characterisitcs of date and date/time fields\n",
+    "* describe the difference between date parts and date values\n",
+    "\n",
+    "## Discrete and Continuous Fields\n",
+    "identify continuous and discrete fields and how they affect your visualizations\n",
+    "\n",
+    "## Changing Date Fields into Discrete or Continuous Fields\n",
+    "Convert dates form discrete to continuous and form continuous to discrete\n",
+    "\n",
+    "## Using Discrete and Continuous Date Fields\n",
+    "Use date parts and date ranges to change views of your data\n",
+    "\n",
+    "## Show Data Across Discrete and Continuous Months\n",
+    "Compare the difference between discrete nad continuous dates"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Working with Date Fields: Custom Dates\n",
+    "Make date fields behave exactly the you want, every time! Learn how to use custom dates to simplify\n",
+    "a time series analysis that you find yourself doing frequently. Create custom dates that are automatically drilled down\n",
+    "to the continuous date value you want. Or, use custom dates that deliver only the discrete\n",
+    "date part you were looking for. Build a hierarchy from the custom dates to control what happens\n",
+    "when users drill up or down.\n",
+    "\n",
+    "## Apply Custom Dates - exercise"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Working with Multiple Measures: Dual Axis and Combo Charts\n",
+    "the ability to compare measures with each other is important to any analysis. Tableau makes it easy\n",
+    "to do this through the use of different chart types. Learn the difference between a dual axis chart and a combo chart to\n",
+    "compare and contrast two marks. Use multiple mark types to distinguish them.\n",
+    "## Building Dual Axis and Combo Charts\n",
+    "## Build a Combo Chart - exercise\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Working with Multiple Measures: Combined Axis Charts\n",
+    "Neet to see multiple measures at the same scale? Use Measure Names and Measure Values to show\n",
+    "multiple measures on the same axis. Learn how to create a combined axis chart that uses stacked marks.\n",
+    "## Building a Combined Axis Chart\n",
+    "Use multiple measures on the same axis\n",
+    "## Build a Combined Axis Chart - exercise\n"
    ],
    "metadata": {
     "collapsed": false,
