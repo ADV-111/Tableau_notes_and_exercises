@@ -500,7 +500,100 @@
     "Use a Rank calculation to compare and sequence dimensions\n",
     "\n",
     "## Apply a Year Over Year Table Calculation\n",
-    "Show year over year change within a view"
+    "Show year over year change within a view\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Showing Breakdowns of the Whole\n",
+    "Seeing parts of the whole helps you understand the overall picture. Learn about when to use pie charts (they're not all bad)\n",
+    "and create a tree map to show a breakdown of multiple categories\n",
+    "\n",
+    "## Making Effective Pie Charts\n",
+    "Pick the right data for your pie chart\n",
+    "\n",
+    "## Showing Hierarchy with Tree Maps\n",
+    "Display relative values with tree maps and other chart types\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Highlighting Data with Reference Lines\n",
+    "Show whether data has met its mark. Create and label reference lines to show targets, averages, and more. Use instant\n",
+    "analytics to compare subsets against the rest\n",
+    "\n",
+    "## Using Reference Lines and Bands\n",
+    "Explore options for highlighting data\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Create a Dashboard: Combining Your Views\n",
+    "It's time to show off your data in a dashboard! Combine views and use quick filters, highlight actions, and more to create\n",
+    "an interactive dashboard designed to guide someone through their analysis\n",
+    "## Introduction to Dashboards\n",
+    "Combine views to present your analysis\n",
+    "## Building a Dashboard\n",
+    "## Adding Interactivity to Dashboards\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Create a Dashboard: Add Actions for Interactivity\n",
+    "Involve your audience in the dashboard experience through interactivity. Create dashboard actions to enable users to highlight\n",
+    "data in the view, filter out data, or connect to a file or web-based resources for more information about data. Select\n",
+    "a preferred way to run each action.\n",
+    "\n",
+    "## Using More Actions in Dashboards\n",
+    "Discover highlight, filter and URL actions\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Sharing Your Work\n",
+    "You're ready for others to see your work! Invesigate the contents of the main Tableau file types, and deteremine the\n",
+    "purpose of each. Explore ways to share your work using Tableau Server or Tableau Online and as a packaged workbook (for\n",
+    "those with Tableau Desktop or Tableau Reader). Share views and dashboards as an image or export the data from a view.\n",
+    "\n"
    ],
    "metadata": {
     "collapsed": false,
