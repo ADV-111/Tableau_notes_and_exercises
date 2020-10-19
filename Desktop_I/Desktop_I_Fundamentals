@@ -400,6 +400,114 @@
      "name": "#%% md\n"
     }
    }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Customize Your Data\n",
+    "data customization helps you to create fields that you dream of. Use formulas, functions,\n",
+    "fields, within your data, and more to create your own calculations. Learn about the calculation\n",
+    "editor and how to use it to add fields that your data set is missing.\n",
+    "## Using Calculated Fields\n",
+    "## Exploring the Calculation Editor\n",
+    "Learn how to create calculated fields\n",
+    "\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Calculations: Working with Strings, Dates, and Type Conversion Functions\n",
+    "Do you need your dates to be specific to an analysis you're creating? Create calculations using\n",
+    "string data fields and date fields. Combine string data, and use type conversion functions to convert a data type.\n",
+    "Use date functions to create date-specific calculations that determine spans of time.\n",
+    "\n",
+    "## Working with String Calculations\n",
+    "Combine strings and convert the data type\n",
+    "\n",
+    "## Manipulate Strings and Convert the Data Type - exercise\n",
+    "Use a string function and perform a data conversion\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Date Specific Calculations\n",
+    "Create a cacluated field using date data\n",
+    "\n",
+    "## Create a Date Calculation - exercise\n",
+    "Calculate the number of days between start and end dates"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Calculations: Working with Aggregations\n",
+    "HOw does Tableau aggregate data in calculations? Lear best practices to control how Tableau\n",
+    "aggregate your data. Use a calculated field to predetermine the order of operation for\n",
+    "the aggregation. Investigate the different results between aggregation performed at the row\n",
+    "level and aggregation performed within your calculation\n",
+    "## How Calculations Work with Aggregation\n",
+    "Examine how calculations can affect aggregation\n",
+    "\n",
+    "## Building Calculations with Aggregations\n",
+    "Control the level of aggregation in calculations\n",
+    "\n",
+    "## Create a Calculation with Aggregation - exercise\n",
+    "\n"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
+  },
+  {
+   "cell_type": "markdown",
+   "source": [
+    "# Using Quick Table Calculations to Analyze Data\n",
+    "Uncertain which calculation to use? Leverage the power of Tableau's built-in table calculations to dive deeper into your\n",
+    "data. Learn how Tableau applies quick table calculations to a view, discover the default calculations available, and control results using scope and direction options.\n",
+    "Apply calculations such as Running Total, Percent of Total, Rank and Year over Year\n",
+    "\n",
+    "## Applying Quick Table Calculations\n",
+    "Create calculations with the data in the view\n",
+    "\n",
+    "## Using Running Total and Percent of Total\n",
+    "Apply quick table calculations to a view\n",
+    "\n",
+    "## Leveraging Rank Calculations\n",
+    "Use a Rank calculation to compare and sequence dimensions\n",
+    "\n",
+    "## Apply a Year Over Year Table Calculation\n",
+    "Show year over year change within a view"
+   ],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   }
   }
  ],
  "metadata": {
